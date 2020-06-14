@@ -6,3 +6,6 @@ For this to work, you must set the following keybind in Garry's Mod:
 
 Once launched, a new panel should appear in your SteamVR dashboard.
 ![Overlay Example](https://freeman.feen.us/tc6sfrmpq3.png)
+
+I used ViveIsAwesome's console app template as a base, so here's a link to that repo:
+https://github.com/ViveIsAwesome/OpenVROverlayTest/
